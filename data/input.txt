@@ -1,0 +1,63 @@
+# Guia de Teoria Musical: Conceitos Fundamentais, Harmonia e Notação
+
+## 1. Conceito de Música e Parâmetros Acústicos do Som Musical
+A música é a arte de combinar os sons e o silêncio de forma organizada ao longo do tempo. Na física e na acústica, o som é uma onda mecânica provocada pela vibração de um corpo material. Os quatro elementos e parâmetros fundamentais do som musical são:
+
+* **Altura:** Define se um som é grave ou agudo, dependendo diretamente da frequência da onda sonora medida em Hertz (Hz). Quanto maior a frequência (mais vibrações por segundo), mais agudo é o som; quanto menor a frequência, mais grave.
+* **Duração:** É o tempo de sustentação da vibração sonora, determinando a transição entre sons curtos e longos, fundamental para a construção de padrões rítmicos.
+* **Intensidade:** Refere-se à amplitude da onda sonora, correspondendo ao volume do som. Na interpretação musical, varia da dinâmica pianissimo (muito fraco) ao fortissimo (muito forte).
+* **Timbre:** Conhecido como a cor ou a identidade sonora do som. É determinado pela forma da onda e pelos harmônicos (frequências secundárias) que acompanham a nota fundamental. O timbre permite diferenciar o mesmo tom (por exemplo, a nota Dó) executado em instrumentos diferentes, como um piano e um violino.
+
+## 2. Notas Musicais, Intervalos, Cifras e Acidentes Musicais
+As sete notas musicais básicas na notação ocidental são Dó, Ré, Mi, Fá, Sol, Lá e Si. No sistema de cifras alfabéticas, são representadas pelas letras C, D, E, F, G, A e B, respectivamente.
+
+* **Intervalo Musical:** É a distância de altura entre duas notas. Os intervalos podem ser melódicos (quando as notas são tocadas sucessivamente) ou harmônicos (quando as notas são tocadas simultaneamente).
+* **Semitom e Tom:** O semitom (ou meio tom) é a menor distância entre duas notas no sistema temperado ocidental. Dois semitones somados equivalem a um tom inteiro.
+* **Acidentes Musicais:** São sinais grafados ao lado da nota para modificar sua altura original:
+  * **Sustenido (#):** Eleva a nota em um semitom.
+  * **Bemol (b):** Abaixa a nota em um semitom.
+  * **Bequadro (natural):** Anula o efeito de um sustenido ou bemol prévio, retornando a nota ao seu estado natural.
+
+## 3. Escalas Musicais: Maior Natural, Menor Natural e Pentatônica
+Uma escala musical é uma sequência ordenada de notas dispostas em alturas crescentes (ascendente) ou decrescentes (descendente), servindo como base estrutural para composições.
+
+* **Escala Maior Natural:** Formada pelo padrão intervalar: Tom – Tom – Semitom – Tom – Tom – Tom – Semitom.
+  * *Exemplo da Escala de Dó Maior:* Dó, Ré, Mi, Fá, Sol, Lá, Si, Dó.
+* **Escala Menor Natural:** Possui uma sonoridade melancólica ou introspectiva e segue o padrão intervalar: Tom – Semitom – Tom – Tom – Semitom – Tom – Tom.
+  * *Exemplo da Escala de Lá Menor:* Lá, Si, Dó, Ré, Mi, Fá, Sol, Lá.
+* **Escala Pentatônica:** Composta por apenas cinco notas, elimina os intervalos de semitom (como a 4ª e a 7ª notas no modo maior), o que reduz as tensões dissonantes. É a base fundamental de gêneros como blues, rock, jazz e músicas folclóricas.
+
+## 4. Harmonia, Estrutura de Acordes, Tríades e Campo Harmônico
+A harmonia é a arte e a ciência de combinar notas simultaneamente, criando profundidade, textura e movimento à melodia.
+
+### Formação de Acordes e Tríades
+Um acorde surge da emissão conjunta de três ou mais notas (ou em arpejo, quando tocadas sucessivamente em rápida sequência). A estrutura básica do acorde é a tríade, composta por:
+1. **Tônica (Fundamental):** A nota base que dá nome ao acorde.
+2. **Terça:** A nota que define o caráter do acorde. Se for uma terça maior, o acorde possui sonoridade aberta e brilhante. Se for uma terça menor, soa denso e introspectivo.
+3. **Quinta:** A nota que estabiliza a estrutura do acorde (geralmente uma quinta justa).
+
+### Campo Harmônico e Funções Harmônicas
+O campo harmônico é o conjunto de acordes gerados a partir das notas de uma determinada escala. No campo harmônico maior, cada grau assume uma função harmônica específica:
+* **Grau I (Tônica):** Função de estabilidade, repouso, ponto de partida e chegada.
+* **Grau IV (Subdominante):** Função de afastamento, sensação de tensão moderada ou preparação.
+* **Grau V (Dominante):** Função de forte tensão e instabilidade que pede resolução de volta à Tônica.
+
+## 5. Ritmo, Pulsação, Andamento BPM e Métricas de Compasso
+O ritmo é a organização do tempo na música, regendo a duração dos sons e a distribuição das pausas.
+
+* **Pulsação:** É a batida constante e subjacente que dita a base do tempo musical.
+* **Andamento:** Indica a velocidade da pulsação, medida em Batimentos Por Minuto (BPM). É indicado por termos em italiano como Largo e Adagio (lentos), Andante (moderado), e Allegro e Presto (rápidos).
+* **Compasso:** Agrupa os pulsos em unidades métricas regulares, separadas na partitura por linhas verticais chamadas barras de compasso:
+  * **Compasso Binário (2/4):** Alterna um tempo forte e um tempo fraco (exemplo: marchas).
+  * **Compasso Ternário (3/4):** Um tempo forte seguido de dois tempos fracos (exemplo: valsas).
+  * **Compasso Quaternário (4/4):** Um tempo forte, um fraco, um meio-forte e um fraco. É a estrutura mais comum na música ocidental.
+
+## 6. Notação Musical Tradicional, Pentagrama, Claves e Figuras Rítmicas
+A notação musical tradicional é o sistema universal para registrar visualmente uma ideia musical para leitura e interpretação.
+
+* **Pentagrama ou Pauta Musical:** Conjunto de 5 linhas e 4 espaços paralelos onde as notas e símbolos são grafados.
+* **Claves Musicais:** Sinais posicionados no início do pentagrama que definem a nota de referência para uma determinada linha:
+  * **Clave de Sol:** Usada para regiões e sons agudos (ex: mão direita do piano, violino, flauta, voz feminina).
+  * **Clave de Fá:** Usada para regiões e sons graves (ex: mão esquerda do piano, baixo elétrico, violoncelo, trombone).
+* **Figuras de Valor e Duração Rítmica:** Símbolos que indicam a duração relativa de cada nota ou pausa. A semibreve é a unidade de maior valor relativo, dividindo-se proporcionalmente em mínimas, semínimas, colcheias, semicolcheias, fusa e semifusa.
+* **Teoria Musical:** Unifica os pilares acústicos, harmônicos e métricos. Seu estudo desenvolve a percepção auditiva, a leitura de partituras e a capacidade de arranjo e composição.
